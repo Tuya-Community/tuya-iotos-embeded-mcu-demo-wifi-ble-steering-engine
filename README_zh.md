@@ -81,10 +81,10 @@
 
 ### I/O 列表 
 
-| UASRT2  | UASRT1  |
-| :-----: | :-----: |
-| PD5 TXD | PC4 TXD |
-| PD6 RXD | PC5 RXD |
+|     PWM     | UASRT1  |
+| :---------: | :-----: |
+| PD0 T16_CH1 | PC4 TXD |
+| PD1 T17_CH1 | PC5 RXD |
 
 ## 相关文档
 

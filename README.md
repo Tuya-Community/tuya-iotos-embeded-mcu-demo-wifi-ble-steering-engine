@@ -80,10 +80,10 @@ Important functions：main()
 
 ### I/O List  
 
-| UASRT2  | UASRT1  |
-| :-----: | :-----: |
-| PD5 TXD | PC4 TXD |
-| PD6 RXD | PC5 RXD |
+|     PWM     | UASRT1  |
+| :---------: | :-----: |
+| PD0 T16_CH1 | PC4 TXD |
+| PD1 T17_CH1 | PC5 RXD |
 
 ## 
 
@@ -95,7 +95,7 @@ Tuya Demo Center: https://developer.tuya.com/demo/
 
 ## Technical Support
 
-  You can get support for Tuya by using the following methods:
+You can get support for Tuya by using the following methods:
 
 - Developer Centre: https://developer.tuya.com/
 - Help Centre: https://support.tuya.com/help
